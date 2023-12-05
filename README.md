@@ -12,4 +12,4 @@ I chose the [SpaceSpeakersCM](https://www.facebook.com/SpaceSpeakersCM) page to 
 - Collect data from the SpaceSpeakersCM page could be found in the file [Crawl data notebook](Crawl_Data.ipynb)
 - Analysis of posts on the SpaceSpeakersCM page can be found in the file [Analyze Post notebook](Analyze_Post.ipynb)
 - Analysis of interactions on the SpaceSpeakersCM page can be found in the file [Analyze Interact notebook](Analyze_Interact.ipynb)
-- The report on the SpaceSpeakers page analysis can be found in file [Final-Project](22022589-ĐàoDuyHưng.pdf) or in the link [Notion](https://ryoiki-tenkai-04.notion.site/Final-Project-1c4ecb41ce9b4f669a6ab2a81d5909c5?pvs=4)
+- The report on the SpaceSpeakers page analysis can be found in file [Final-Project](22022589-ĐàoDuyHưng.pdf) or in the link [Notion](https://ryoiki-tenkai-04.notion.site/Ph-n-T-ch-L-ng-T-ng-T-c-C-a-Fanpage-SpaceSpeakerCM-853e09f40b574ae8a27d2ccbf2fad2bf?pvs=4)
