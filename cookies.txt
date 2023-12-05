@@ -1,14 +1,1 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-.facebook.com	TRUE	/	TRUE	1734680225	sb	TU0xY2qvCJaesiHkXJ1EPu9G
-.facebook.com	TRUE	/	TRUE	1734415667	datr	oAVBZdl8K4khVAW2CVve4TUo
-.facebook.com	TRUE	/	TRUE	1700674653	locale	vi_VN
-.facebook.com	TRUE	/	TRUE	1700725029	wd	1482x822
-.www.facebook.com	TRUE	/	TRUE	1734625096	m_ls	%7B%22c%22%3A%7B%221%22%3A%22HCwAABYaFpzgxVcTBRaCm-Lk7_4bAA%22%2C%222%22%3A%22GSwVQBxMAAAWARacrqfVDBYAABV-HEwAABYAFpyup9UMFgAAFigA%22%2C%2295%22%3A%22HCwAABYQFoyaupACEwUWgpvi5O_-GwA%22%7D%2C%22d%22%3A%225a6f3db9-5d56-4c2d-850c-29bebba28ba8%22%2C%22s%22%3A%220%22%2C%22u%22%3A%2210yasx%22%7D
-.facebook.com	TRUE	/	TRUE	1700725029	dpr	1.25
-.facebook.com	TRUE	/	TRUE	1731656225	c_user	100011401903586
-.facebook.com	TRUE	/	TRUE	1731656225	xs	20%3A638MyNwVlDw6oQ%3A2%3A1700120224%3A-1%3A6397
-.facebook.com	TRUE	/	TRUE	1707896226	fr	1gcjVqnYhfzUAqivI.AWXJ0dqvKCVrjc5rP23okehuR4k.BlVcZS.F5.AAA.0.0.BlVcai.AWXXbrnQ48w
-.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1700120231805%2C%22v%22%3A1%7D
+## đã gỡ do nếu Gitbub quét được có thể bị gỡ repo
